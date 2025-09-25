@@ -1,8 +1,5 @@
 {
-  "[cpp]": {
-    "editor.defaultFormatter": "xaver.clang-format",
-    "editor.formatOnSave": true
-  },
   "editor.stickyScroll.enabled": false,
-  "git.postCommitCommand": "sync"
+  "git.postCommitCommand": "sync",
+  "git.autorefresh": true
 }
