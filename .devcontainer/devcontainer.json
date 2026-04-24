@@ -10,6 +10,21 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "liximomo.remotefs"
+      ],
+      "settings": {
+        "github.copilot.enable": {
+          "*": false,
+          "markdown": false,
+          "plaintext": false
+        },
+        "github.copilot.advanced": {
+          "authProvider": "github" 
+        }
+      }
+    },
+    "codespaces": {
+      "openFiles": [
+        "main.cpp"
       ]
     }
   }
