@@ -5,32 +5,6 @@
 // Citations: 
 
 
-// ------------- ZYBOOKS SCORES -------------
-// Chapter ✅: 
-// Participation ✅: 
-// Challenge ✅:
-// Labs ✅:
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count ✅:
-// Links (Optional): 
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT ✅: 
-// B. OUTPUT ✅:
-// C. CALCULATIONS ✅:
-// D. LOGIC and ALGORITHMS ✅:
-//    (Optional) flow chart link or file name: 
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS ✅: 
-// (Optional) Additional tests count:   
-
-
 // ------------- CODE -------------
 #include <iostream>
 
@@ -41,7 +15,7 @@ using namespace std;
 
 // Main function
 // https://en.cppreference.com/w/cpp/language/main_function.html
-int main(int argc, char* argv[]) {
+int main() {
   cout << "Hello, World!" << endl;
   return 0;
 }
